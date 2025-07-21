@@ -209,3 +209,14 @@
 5. **Differentiation**: Few have both security + ML
 
 This plan positions you at the intersection of two exploding fields, commanding premium compensation from day one.
+
+---
+
+## Career & Consulting Timeline
+
+See [consulting-timeline.md](./consulting-timeline.md) for the complete 5-year progression from $150K employee to $1M+ AI security consultant, including:
+- Strategic employment at elite AI companies (Years 1-2)
+- Transition to premium consulting (Year 3)
+- Scaling to million-dollar practice (Years 4-5)
+- Service evolution and pricing strategy
+- Risk mitigation checkpoints

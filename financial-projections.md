@@ -316,3 +316,14 @@
 5. **Plan for Taxes**: Optimize legally
 
 This financial model shows clear path from $65K investment to $1M+ annual income within 5 years through AI/ML security expertise.
+
+---
+
+## Detailed Consulting Evolution
+
+For the complete month-by-month progression from employment to $1M+ consulting practice, see [consulting-timeline.md](./consulting-timeline.md), which includes:
+- Specific revenue milestones by month
+- Service offering evolution
+- Pricing strategy progression
+- Team building timeline
+- Exit strategy options
