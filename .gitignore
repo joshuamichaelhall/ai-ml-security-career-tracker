@@ -1,0 +1,88 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# ML/Data files
+*.h5
+*.pkl
+*.pickle
+*.model
+*.pt
+*.pth
+*.onnx
+data/
+datasets/
+models/
+checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Credentials and Secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+credentials.json
+config.json
+secrets/
+
+# Logs
+logs/
+*.log
+
+# Virtual Environments
+bin/
+include/
+lib/
+lib64/
+share/
+pyvenv.cfg
+
+# Documentation build
+docs/_build/
+site/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# Temporary files
+*.tmp
+*.bak
+.temp/
+tmp/
